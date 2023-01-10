@@ -2,37 +2,37 @@
     {
       "id": 1,
       "titulo": "Pachira acuática",
-      "srcimg": "/pachira.jpg",
+      "srcimg": "https://www.margaritasellamamiamor.com/wp-content/uploads/2022/10/Pachira-Aquatica.jpg",
       "texto": "La pachira aquática es una planta de interior originaria de la América tropical. Es muy elegante y se caracteriza por su habitual trenzado en el tronco con el que se suele vender."
     },
     {
       "id": 2,
       "titulo": "Cinta",
-      "srcimg": "/cinta.jpg",
+      "srcimg": "https://media.admagazine.com/photos/618a613fac089e092dcbfeac/16:9/w_1872,h_1053,c_limit/84923.jpg",
       "texto": "Es una una planta de porte colgante muy fácil de reproducir y cuidar, con unas hojas largas y muy luminosas. Son ideales para decorar los cuartos de baño o las cocinas ya que adoran la humedad."
     },
     {
       "id": 3,
       "titulo": "Potos",
-      "srcimg": "/potos.jpg",
+      "srcimg": "https://cdn.shopify.com/s/files/1/0093/4674/4401/articles/cuidados-poto_800x800.jpg?v=1654079978",
       "texto": "El potos es una de las plantas de interior con más presencia en los hogares y no nos extraña. Es una planta trepadora de hojas verdes que, además de decorar la estancia en la que la coloques, depurará el aire y aportará calma y tranquilidad."
     },
     {
       "id": 4,
       "titulo": "Crotón",
-      "srcimg": "/croton.jpg",
+      "srcimg": "https://images.hola.com/imagenes/decoracion/20211213201164/cuidados-croton-plantas-interior-il/1-30-65/cuidados-croton-03a-a.jpg",
       "texto": "Esta planta destaca por la gran variedad de colores vivos que tienen sus hojas (van desde el amarillo y el anaranjado hasta los tonos rojizos). Puede alcanzar 90 cm de altura y, gracias a su porte erguido y a la singular forma y color de sus hojas, es una planta de interior con mucha fuerza visual"
     },
     {
       "id": 5,
       "titulo": "Bambú",
-      "srcimg": "/bambu.jpg",
+      "srcimg": "https://t2.uc.ltmcdn.com/es/posts/2/3/9/propiedades_del_bambu_para_la_salud_45932_orig.jpg",
       "texto": "A pesar de su nombre, no tiene nada que ver con los bambúes sino con las drácenas. Sus tallos verdes en espiral son habituales en la decoración de ambientes modernos."
     },
     {
       "id": 6,
       "titulo": "Espatifilio",
-      "srcimg": "/espatifilio.jpg",
+      "srcimg": "https://www.clara.es/medio/2022/04/05/espatifilo_d21a931a_1280x720.jpg",
       "texto": "El espatifilo destaca por su verdor y el atractivo de sus flores blancas. Es otra de las plantas que ayuda a purificar el ambiente de los hogares eliminando los contaminantes que se van acumulando."
     }
   ]
