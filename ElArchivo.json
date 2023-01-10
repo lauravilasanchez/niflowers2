@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "titulo": "Crocus",
+      "srcimg": "/crocus.jpg",
+      "texto": "Los crocus son otra opción de flores hermosas fáciles de cultivar que están ampliamente esparcidas por África del Norte, Asia y Europa. Se suelen plantar en otoño para que puedan germinar adecuadamente."
+    },
+    {
+      "id": 2,
+      "titulo": "Miosotis",
+      "srcimg": "/miosotis.jpg",
+      "texto": "Si te preguntas cuáles son las flores más fáciles de cultivar en casa, definitivamente, las miosotis son una de ellas. Estas plantas también son conocidas con el nombre de “no me olvides”, se caracterizan por tener tallos erectos y ser de colores suaves, así como por no superar los 30 centímetros de altura."
+    },
+    {
+      "id": 3,
+      "titulo": "Tulipanes",
+      "srcimg": "/tulipanes.jpg",
+      "texto": "Los tulipanes son una de las opciones de flores fáciles de cultivar en casa más populares. Estas se caracterizan por crecer en primavera, por ello, se recomienda empezar a sembrarlas en otoño."
+    },
+    {
+      "id": 4,
+      "titulo": "Cosmos",
+      "srcimg": "/cosmos.jpg",
+      "texto": "También conocida como Mirasol, esta es una planta herbácea que comparte muchas características con los girasoles. Pero, ¿qué es una planta herbácea? Son aquellas flores naturales que cumplen con su ciclo de vida en tan solo unos meses."
+    },
+    {
+      "id": 5,
+      "titulo": "Girasoles",
+      "srcimg": "/girasoles.jpg",
+      "texto": "Los girasoles, aunque no lo creas, son una de las flores más fáciles de cultivar en casa. También conocida por su nombre científico Helianthus annuus, el girasol es un herbáceo originario de América del Norte."
+    },
+    {
+      "id": 6,
+      "titulo": "Zinnias",
+      "srcimg": "/zinnias.jpg",
+      "texto": "Las Zinnias son flores fáciles de cultivar originarias de México, que poseen 22 especies distintas, entre las que destacan la Zinnia elegans, Zinnia haageana, Zinnia grandiflora, entre otras."
+    }
+  ]
+  
