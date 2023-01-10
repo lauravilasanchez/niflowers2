@@ -8,31 +8,31 @@
     {
       "id": 2,
       "titulo": "Miosotis",
-      "srcimg": "/miosotis.jpg",
+      "srcimg": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Myosotis_sylvatica%2C_Bosvergeet-mij-nietje.jpg",
       "texto": "Si te preguntas cuáles son las flores más fáciles de cultivar en casa, definitivamente, las miosotis son una de ellas. Estas plantas también son conocidas con el nombre de “no me olvides”, se caracterizan por tener tallos erectos y ser de colores suaves, así como por no superar los 30 centímetros de altura."
     },
     {
       "id": 3,
       "titulo": "Tulipanes",
-      "srcimg": "/tulipanes.jpg",
+      "srcimg": "https://www.viverosshangai.es/image/cache/catalog/blog/Tulipanes-azules-Como-cuidarlos-1250x750.jpg",
       "texto": "Los tulipanes son una de las opciones de flores fáciles de cultivar en casa más populares. Estas se caracterizan por crecer en primavera, por ello, se recomienda empezar a sembrarlas en otoño."
     },
     {
       "id": 4,
       "titulo": "Cosmos",
-      "srcimg": "/cosmos.jpg",
+      "srcimg": "https://www.jardineriaon.com/wp-content/uploads/2017/09/Cosmos.jpg",
       "texto": "También conocida como Mirasol, esta es una planta herbácea que comparte muchas características con los girasoles. Pero, ¿qué es una planta herbácea? Son aquellas flores naturales que cumplen con su ciclo de vida en tan solo unos meses."
     },
     {
       "id": 5,
       "titulo": "Girasoles",
-      "srcimg": "/girasoles.jpg",
+      "srcimg": "https://static.eldiario.es/clip/ecb75cfc-a519-4f6a-a1a1-c7247c3ed630_16-9-discover-aspect-ratio_default_0.jpg",
       "texto": "Los girasoles, aunque no lo creas, son una de las flores más fáciles de cultivar en casa. También conocida por su nombre científico Helianthus annuus, el girasol es un herbáceo originario de América del Norte."
     },
     {
       "id": 6,
       "titulo": "Zinnias",
-      "srcimg": "/zinnias.jpg",
+      "srcimg": "https://www.jardineriaon.com/wp-content/uploads/2019/03/Coloridos-de-las-zinnia.jpg",
       "texto": "Las Zinnias son flores fáciles de cultivar originarias de México, que poseen 22 especies distintas, entre las que destacan la Zinnia elegans, Zinnia haageana, Zinnia grandiflora, entre otras."
     }
   ]
